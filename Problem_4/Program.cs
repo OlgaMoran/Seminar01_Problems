@@ -4,12 +4,11 @@
 //    Console.WriteLine(i);
 //}
 
-int N = 5;
+int N = 20;
 int x = 2;
-while(x >= N)
+while(x < N - 1)
 {
     Console.WriteLine(x);
     x = x + 2;
-    return;
 }
 Console.WriteLine(x);
