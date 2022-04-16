@@ -1,4 +1,4 @@
 ﻿//Напишите программу, которая на вход принимает трехзначное число и на выходе показывает последнюю цифру этого числа.
 int a = 582;
-int reminder = a % 10;
-Console.WriteLine(reminder);
+int remainder = a % 10;
+Console.WriteLine(remainder);

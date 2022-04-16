@@ -2,7 +2,7 @@
 int a = 555465465;
 int b = 6585;
 int max = a;
-if(a < b)
+if (a < b)
 {
     max = b;
 }
