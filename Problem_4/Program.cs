@@ -3,7 +3,7 @@
 //{
 //    Console.WriteLine(i);
 //}
-int N = 19;
+int N = 20;
 int x = 2;
 while(x < N - 1)
 {
